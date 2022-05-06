@@ -1,0 +1,42 @@
+body {
+    width: 80%;
+    margin: 0 auto;
+    border: 0;
+    font-family: Raleway, sans-serif;
+}
+header h1{
+    font-size: 3em;
+    font-weight: 500;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    background: #000;
+    text-align: center;
+}
+header img{
+    width: 100%;
+    display: block;
+}
+.description{
+    background-color: #000;
+    margin: 0;
+  
+
+
+}
+.description-text{
+    padding: 0;
+    margin: 0;
+    color: #fff;
+    display: inline-block;
+    width: 40%;
+}
+.description-img{
+    display: inline-block;
+    width: 30%;
+}
+.description-img img{
+    width: 40%;
+    vertical-align: middle;
+}
+
